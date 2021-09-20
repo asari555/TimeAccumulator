@@ -17,6 +17,7 @@ A TUI app that accumulates working times, allows users to track work minutes and
 + **[Tested On](#tested-on)**
 + **[Compiled Via](#compiled-via)**
 + **[Command Keys](#command-keys)**
++ **[Requirements](#requirements)**
 + **[Dependencies](#dependencies)**
 
 ## Demonstration 
@@ -105,6 +106,10 @@ In addition, each summary stage is regenerated after the next required number of
 
 > gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
 
+## Requirements
+
+[Doxygen](https://www.doxygen.nl/index.html)
+
 ## Dependencies
 
 + [Boost 1.71.0](https://www.boost.org/doc/libs/1_71_0/more/getting_started/windows.html)
@@ -118,5 +123,3 @@ In addition, each summary stage is regenerated after the next required number of
 	- libstdc++.so.6
 	- libgcc_s.so.1
 	- libc.so.6
-
-+ [Doxygen](https://www.doxygen.nl/index.html)
