@@ -113,3 +113,8 @@ In addition, each summary stage is regenerated after the next required number of
 
 + [msgpack-c](https://github.com/msgpack/msgpack-c/tree/cpp_master)
 
++ Dynamic Libs:
+	- libpthread.so.0
+	- libstdc++.so.6
+	- libgcc_s.so.1
+	- libc.so.6
