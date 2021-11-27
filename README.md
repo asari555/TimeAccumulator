@@ -17,6 +17,9 @@ A TUI app that accumulates working times, allows users to track work minutes and
 + **[Tested On](#tested-on)**
 + **[Compiled Via](#compiled-via)**
 + **[Command Keys](#command-keys)**
++ **[Operating Systems](#operating-systems)**
++ **[Tested On](#tested-on)**
++ **[Compiled Via](#compiled-via)**
 + **[Requirements](#requirements)**
 + **[Dependencies](#dependencies)**
 
